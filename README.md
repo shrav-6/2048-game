@@ -1,6 +1,6 @@
 # 2048-game-description
 
-2048 is fun and easy sliding numbered tile game. Originally designed by Italian web developer Gabriele Cirulli.
+2048 is a fun and easy sliding numbered tile game. Originally designed by Italian web developer Gabriele Cirulli.
 
 # How it is developed?
 

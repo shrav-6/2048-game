@@ -15,4 +15,4 @@
 2. For every turn, a new tile of value 2 will randomly appear in an empty spot on the grid. 
 3. The aim of the game is to slide like numbered tiles together and make a bigger numbered tile. 
 4. The game ends when the user makes a tile numbered 2048.
-5. The user can exit the game when they want to.
+5. The user can exit the game when they want to and their score is displayed.
